@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: co.edu.usa.mintic.ciclo3.api.ApiReservaHotelesApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 100.002 s - in co.edu.usa.mintic.ciclo3.api.ApiReservaHotelesApplicationTests
